@@ -1,6 +1,6 @@
 public class cal {
     public int sum(int a, int b)
-    {
-        return a+b+5;
+    {  a=155;
+        return a+b+11;
     }
 }
